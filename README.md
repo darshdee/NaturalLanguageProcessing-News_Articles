@@ -17,6 +17,8 @@ In this report, I follow the most common approach to conducting predictive analy
 It is important to note that text data requires, from the analyst, a significant amount of time to wrangle and clean data to represent it in the appropriate format for analysis. As with most data science projects, this part took up the majority of the time spent on this project. 
 
 ### Practical use-cases:
-Automated content output: A model such as this can automate the content generation pipeline for a company such as a news organization. For instance, say that company A has identified that their readers respond more about news relating to AI and drone technology in particular. Therefore, a model can be placed at a stage where editors of the company can simply upload their work into a system where this model will classify it a specific type and send it down the appropriate pipeline.
+Some ideal production use-cases would be as follows: 
 
-Marketing: A model such as this will help advertising companies determine what kind of advertisements to display on the appropriate news article in a constant feedback loop.
+- Automated content output: A model such as this can automate the content generation pipeline for a company such as a news organization. For instance, say that company A has identified that their readers respond more about news relating to AI and drone technology in particular. Therefore, a model can be placed at a stage where editors of the company can simply upload their work into a system where this model will classify it a specific type and send it down the appropriate pipeline.
+
+- Marketing: A model such as this will help advertising companies determine what kind of advertisements to display on the appropriate news article in a constant feedback loop.
